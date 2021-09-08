@@ -12,4 +12,4 @@ Try our [sample WebDataRocks Angular project](https://github.com/WebDataRocks/pi
 
 ## <a name="support-feedback"></a>Support
 
-Feel free to ask questions via [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
+Feel free to ask WebDataRocks-related questions via [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
