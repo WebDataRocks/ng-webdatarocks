@@ -4,7 +4,7 @@ This repository contains the source code of the Angular 4+ module for WebDataRoc
 
 ## <a name="usage"></a>Usage
 
-See the WebDataRocks' documentation for details on using the WebDataRocks Angular module: [Integration with Angular 4+](https://www.webdatarocks.com/doc/integration-with-angular/).
+Refer to the WebDataRocks' documentation for details on using the WebDataRocks Angular module: [Integration with Angular 4+](https://www.webdatarocks.com/doc/integration-with-angular/).
 
 ## <a name="sample-project"></a>Sample project
 
