@@ -1,6 +1,6 @@
 {
     "name": "ng-webdatarocks",
-    "version": "1.4.3",
+    "version": "1.4.4",
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -23,7 +23,7 @@
         "@angular/common": ">=4.0.0"
     },
     "dependencies": {
-        "webdatarocks": "1.4.3"
+        "webdatarocks": "1.4.4"
     },
     "ngPackage": {
         "$schema": "./node_modules/ng-packagr/ng-package.schema.json",
