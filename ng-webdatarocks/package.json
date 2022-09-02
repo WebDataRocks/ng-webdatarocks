@@ -1,6 +1,6 @@
 {
     "name": "ng-webdatarocks",
-    "version": "1.4.4",
+    "version": "1.4.6",
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -19,11 +19,11 @@
     "description": "Angular 4+ Module for WebDataRocks Web Pivot Table Tool",
     "private": false,
     "peerDependencies": {
-        "@angular/core": ">=4.0.0",
-        "@angular/common": ">=4.0.0"
+        "@angular/common": ">=4.0.0",
+        "@angular/core": ">=4.0.0"
     },
     "dependencies": {
-        "webdatarocks": "1.4.4"
+        "webdatarocks": "1.4.6"
     },
     "ngPackage": {
         "$schema": "./node_modules/ng-packagr/ng-package.schema.json",
