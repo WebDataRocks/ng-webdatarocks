@@ -1,10 +1,12 @@
-# Angular 4+ module for WebDataRocks
+# Angular 5–Angular 15 wrapper for WebDataRocks
 
-This repository contains the source code of the Angular 4+ module for WebDataRocks. Use it to integrate [WebDataRocks](https://www.webdatarocks.com/) with [Angular](https://angular.io/) applications. 
+This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Angular 5–Angular 15](https://angular.io/) applications.
 
-## <a name="usage"></a>Usage
+**Note** The wrapper is incompatible with [Angular Ivy](https://docs.angular.lat/guide/ivy).
 
-Refer to the WebDataRocks' documentation for details on using the WebDataRocks Angular module: [Integration with Angular 4+](https://www.webdatarocks.com/doc/integration-with-angular/).
+## Usage
+
+Refer to the WebDataRocks documentation for details on using the WebDataRocks Angular wrapper: [Integration with Angular](https://www.webdatarocks.com/doc/integration-with-angular/).
 
 ## <a name="sample-project"></a>Sample project
 
@@ -12,4 +14,4 @@ Try our [sample WebDataRocks Angular project](https://github.com/WebDataRocks/pi
 
 ## <a name="support-feedback"></a>Support
 
-Feel free to ask WebDataRocks-related questions via [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
+Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
