@@ -8,10 +8,10 @@ This repository contains the source code of the Angular wrapper for [WebDataRock
 
 Refer to the WebDataRocks documentation for details on using the WebDataRocks Angular wrapper: [Integration with Angular](https://www.webdatarocks.com/doc/integration-with-angular/).
 
-## <a name="sample-project"></a>Sample project
+## Sample project
 
 Try our [sample WebDataRocks Angular project](https://github.com/WebDataRocks/pivot-angular) to see an integration example.
 
-## <a name="support-feedback"></a>Support
+## Support
 
 Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
