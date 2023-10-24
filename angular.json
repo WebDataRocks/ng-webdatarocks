@@ -22,10 +22,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/webdatarocks/webdatarocks.min.css"
+              "node_modules/@webdatarocks/webdatarocks/webdatarocks.min.css"
             ],
             "scripts": [
-              "node_modules/webdatarocks/webdatarocks.js"
+              "node_modules/@webdatarocks/webdatarocks/webdatarocks.js"
             ]
           },
           "configurations": {
