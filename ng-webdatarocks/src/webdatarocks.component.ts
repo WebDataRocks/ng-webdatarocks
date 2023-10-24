@@ -1,5 +1,5 @@
 import { Component, ElementRef, Input, Output, EventEmitter, OnInit } from '@angular/core';
-import * as WebDataRocks from 'webdatarocks';
+import * as WebDataRocks from '@webdatarocks/webdatarocks';
 @Component({
     selector: 'app-wbr-pivot',
     template: `<div><div class='wbr-ng-wrapper'></div></div>`
