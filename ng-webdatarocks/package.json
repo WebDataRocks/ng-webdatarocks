@@ -23,7 +23,8 @@
         "@angular/core": ">=4.0.0"
     },
     "dependencies": {
-        "@webdatarocks/webdatarocks": "1.4.9"
+        "@webdatarocks/webdatarocks": "1.4.9",
+        "webdatarocks": "^1.4.9"
     },
     "ngPackage": {
         "$schema": "./node_modules/ng-packagr/ng-package.schema.json",
