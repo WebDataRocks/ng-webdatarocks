@@ -1,8 +1,8 @@
 # Angular 5–Angular 15 wrapper for WebDataRocks
 
-This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Angular 5–Angular 15](https://angular.io/) applications.
+This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Angular 5–Angular 15](https://angular.dev/) applications.
 
-**Note:** If you are using Angular 14 or later, we recommend the Ivy-compatible [ngx-webdatarocks](https://www.npmjs.com/package/@webdatarocks/ngx-webdatarocks) wrapper.
+**Note:** If you are using Angular 14 or later, we recommend the Ivy-compatible [ngx-webdatarocks](https://github.com/WebDataRocks/ngx-webdatarocks/) wrapper.
 
 ## Usage
 
