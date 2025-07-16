@@ -1,6 +1,6 @@
-# Angular 5–Angular 15 wrapper for WebDataRocks
+# Angular 5–15 wrapper for WebDataRocks
 
-This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Angular 5–Angular 15](https://angular.io/) applications.
+This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Angular 5–15](https://angular.io/) applications.
 
 **Note** The wrapper is incompatible with [Angular Ivy](https://docs.angular.lat/guide/ivy).
 
