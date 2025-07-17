@@ -6,7 +6,7 @@ This repository contains the source code of the Angular wrapper for [WebDataRock
 
 ## Usage
 
-Refer to the WebDataRocks documentation for details on using the WebDataRocks Angular wrapper: [Integration with Angular](https://www.webdatarocks.com/doc/integration-with-angular?target=ng-webdatarocks).
+Refer to the WebDataRocks documentation for details on using the WebDataRocks Angular wrapper: [Integration with Angular](https://www.webdatarocks.com/doc/angular/how-to-start-online-reporting/?target=ng-webdatarocks).
 
 ## Sample project
 
