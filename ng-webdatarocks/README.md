@@ -14,4 +14,4 @@ Try our [sample WebDataRocks Angular project](https://github.com/WebDataRocks/pi
 
 ## Support
 
-Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
+For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
