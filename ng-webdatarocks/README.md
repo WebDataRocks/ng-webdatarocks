@@ -13,6 +13,10 @@ Refer to the WebDataRocks documentation for details on using the WebDataRocks An
 
 Try our [sample WebDataRocks Angular project](https://github.com/WebDataRocks/pivot-angular/tree/ng-webdatarocks) to see an integration example.
 
+## License
+
+The WebDataRocks Angular wrapper is distributed under the terms and conditions of the WebDataRocks End User License Agreement: [https://www.webdatarocks.com/license-agreement/](https://www.webdatarocks.com/license-agreement/?r=wrap_angular_ng).
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
