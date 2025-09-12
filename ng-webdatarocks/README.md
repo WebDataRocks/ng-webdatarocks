@@ -1,5 +1,9 @@
 # Angular 5–15 wrapper for WebDataRocks
 [![WebDataRocks](https://cdn.webdatarocks.com/readmes/angular.png)](https://www.webdatarocks.com/?r=wrap_angular_ng)
+Website: [webdatarocks.com](https://www.webdatarocks.com?r=wrap_angular_ng)
+
+[![NPM](https://img.shields.io/npm/v/@webdatarocks/ng-webdatarocks)](https://www.npmjs.com/package/@webdatarocks/ng-webdatarocks)
+[![Github Stars](https://img.shields.io/github/stars/webdatarocks?style=social)](https://github.com/webdatarocks) [![Twitter](https://img.shields.io/twitter/follow/WebDataRocks?style=social)](https://twitter.com/WebDataRocks)
 
 This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/?r=wrap_angular_ng). Use the wrapper to integrate WebDataRocks into [Angular 5–15](https://angular.dev/) applications.
 
