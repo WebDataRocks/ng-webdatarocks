@@ -1,6 +1,6 @@
 {
   "name": "ng-webdatarocks",
-  "version": "0.0.0",
+  "version": "1.4.20",
   "license": "https://webdatarocks.com/license-agreement/",
   "description": "Angular 5–Angular 15 wrapper for the WebDataRocks Pivot Table component",
   "scripts": {
