@@ -1,7 +1,7 @@
 {
     "name": "@webdatarocks/ng-webdatarocks",
     "version": "1.4.20",
-    "license": "MIT",
+    "license": "https://webdatarocks.com/license-agreement/",
     "repository": {
         "type": "git",
         "url": "https://github.com/WebDataRocks/ng-webdatarocks"
