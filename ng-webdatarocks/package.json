@@ -16,7 +16,15 @@
         "pivotchart",
         "angular"
     ],
-    "description": "Angular 4+ Module for WebDataRocks Web Pivot Table Tool",
+    "description": "Angular 5-15 wrapper for the WebDataRocks Pivot Table component",
+    "author": {
+        "name": "WebDataRocks",
+        "email": "help@webdatarocks.com"
+    },
+    "bugs": {
+        "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
+    },
+    "homepage": "https://www.webdatarocks.com/",
     "private": false,
     "peerDependencies": {
         "@angular/common": ">=4.0.0",
