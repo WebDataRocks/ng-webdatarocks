@@ -3,11 +3,11 @@
   "license": "https://webdatarocks.com/license-agreement/",
   "description": "Angular 5–Angular 15 wrapper for the WebDataRocks Pivot Table component",
   "author": {
-      "name": "WebDataRocks",
-      "email": "help@webdatarocks.com"
+    "name": "WebDataRocks",
+    "email": "help@webdatarocks.com"
   },
   "bugs": {
-      "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
+    "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
   },
   "homepage": "https://www.webdatarocks.com/",
   "scripts": {
@@ -30,7 +30,7 @@
     "@angular/platform-browser": "^6.0.3",
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
-    "@webdatarocks/webdatarocks": "^1.4.20",
+    "@webdatarocks/webdatarocks": "^1.4.21",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
     "webdatarocks": "^1.4.9",
